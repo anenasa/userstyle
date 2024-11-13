@@ -1,20 +1,21 @@
 /* ==UserStyle==
-@name           lxer.com
-@namespace      github.com/anenasa/userstyle
+@name           lxer.com - 2022/4/23 下午7:39:24
+@namespace      github.com/openstyles/stylus
 @version        1.0.0
-@description    View lxer.com on mobile
-@author         anenasa
+@description    A new userstyle
+@author         Me
 ==/UserStyle== */
 
 @-moz-document domain("lxer.com") {
-    span.storyheadline{
-        font-size:220%;
+    h2{
+        font-size:250%;
         line-height:normal;
     }
     #sidebar{
         display:none;
     }
     #content{
-        width:90%;
+        width:90%!important;
     }
+    
 }
