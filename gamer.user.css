@@ -1,0 +1,8 @@
+@-moz-document domain("m.gamer.com.tw") {
+a.open-app, div.marginTop{
+    display:none;
+}
+div.article-nav-bottom, header, div.mb-article-stickybar{
+    position:static;
+}
+}
