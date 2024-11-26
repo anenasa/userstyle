@@ -7,7 +7,7 @@
 ==/UserStyle== */
 
 @-moz-document domain("lxer.com") {
-    span.{
+    h2 span.storyheadline{
         font-size:400%;
         line-height:normal;
     }
