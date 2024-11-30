@@ -9,7 +9,7 @@
 @-moz-document domain("ptt.cc") {
     .r-ent .title {
         font-size: 30px;
-        line-height: 200%;
+        line-height: 100%;
     }
     #main-content {
         font-size: 30px;
