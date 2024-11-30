@@ -1,13 +1,17 @@
 /* ==UserStyle==
-@name           ptt
+@name           ptt.cc
 @namespace      github.com/openstyles/stylus
-@version        1.0.0
+@version        1.1.0
 @description    A new userstyle
 @author         Me
 ==/UserStyle== */
 
 @-moz-document domain("ptt.cc") {
-    .r-ent .title, #main-content {
+    .r-ent .title {
+        font-size: 30px;
+        line-height: 200%;
+    }
+    #main-content {
         font-size: 30px;
     }
 }
