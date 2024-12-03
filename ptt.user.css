@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           ptt.cc
 @namespace      github.com/openstyles/stylus
-@version        1.6.0
+@version        1.7.0
 @description    A new userstyle
 @author         Me
 ==/UserStyle== */
@@ -19,7 +19,10 @@
     #navigation-container{
         display:none;
     }
-    #topbar-container{
+    #topbar-container, .article-metaline-right{
         position:static;
+    }
+    body{
+        padding-top:0px;
     }
 }
