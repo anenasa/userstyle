@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           ptt.cc
 @namespace      github.com/openstyles/stylus
-@version        1.5.0
+@version        1.6.0
 @description    A new userstyle
 @author         Me
 ==/UserStyle== */
@@ -18,5 +18,8 @@
     }
     #navigation-container{
         display:none;
+    }
+    #topbar-container{
+        position:static;
     }
 }
