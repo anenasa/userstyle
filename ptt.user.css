@@ -1,26 +1,33 @@
 /* ==UserStyle==
 @name           ptt.cc
 @namespace      github.com/openstyles/stylus
-@version        1.7.0
+@version        1.8.0
 @description    A new userstyle
 @author         Me
 ==/UserStyle== */
 
 @-moz-document domain("ptt.cc") {
     .r-ent .title {
-        font-size: 120%;
+        font-size: 130%;
         line-height: 100%;
         margin-left: 0;
         margin-right: 0;
     }
     #main-content {
-        font-size: 120%;
+        font-size: 130%;
     }
     #navigation-container{
         display:none;
     }
     #topbar-container, .article-metaline-right{
         position:static;
+    }
+    #action-bar-container{
+        position:static;
+        padding-top:0;
+    }
+    .action-bar-margin{
+        margin-top:0!important;
     }
     body{
         padding-top:0px;
