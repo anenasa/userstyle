@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           ptt.cc
 @namespace      github.com/openstyles/stylus
-@version        1.9.0
+@version        1.10.0
 @description    A new userstyle
 @author         Me
 ==/UserStyle== */
@@ -14,7 +14,7 @@
         margin-right: 0;
     }
     #main-content {
-        font-size: 130%;
+        font-size: 140%;
     }
     #navigation-container{
         display:none;
