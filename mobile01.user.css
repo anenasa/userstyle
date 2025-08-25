@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           m.mobile01.com
 @namespace      github.com/openstyles/stylus
-@version        1.0.0
+@version        1.0.1
 @description    A new userstyle
 @author         Me
 ==/UserStyle== */
@@ -9,5 +9,8 @@
 @-moz-document domain("m.mobile01.com") {
     div.c-articleItem__title, article.l-publishArea, p.msgContent{
         font-size: 27px;
+    }
+    div.c-articleItem__title{
+        max-height: none;
     }
 }
