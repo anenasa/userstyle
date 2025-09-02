@@ -8,13 +8,13 @@
 
 @-moz-document domain("ptt.cc") {
     .r-ent .title {
-        font-size: 160%;
+        font-size: 26px;
         line-height: 100%;
         margin-left: 0;
         margin-right: 0;
     }
-    #main-content {
-        font-size: 160%;
+    #main-content, .btn, .board {
+        font-size: 26px;
     }
     #navigation-container{
         display:none;
