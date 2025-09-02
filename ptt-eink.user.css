@@ -1,0 +1,16 @@
+/* ==UserStyle==
+@name           ptt.cc eink
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    A new userstyle
+@author         Me
+==/UserStyle== */
+
+@-moz-document domain("ptt.cc") {
+    body, #topbar-container, .bbs-screen, .r-ent, #article-polling, .article-metaline, .article-meta-tag, .article-meta-value, .article-metaline-right, #action-bar-container, .btn, .btn.disabled, .btn.selected, .search-bar .query {
+        background-color: white;
+    }
+    a:link, .bbs-screen, .hl, .f3, .hl.f3, .hl.f1, .f2, .article-meta-tag, .article-meta-value, #logo:visited, #topbar .board-label, #topbar .board, .btn:link, .btn:visited, .hl.f2, .search-bar .query {
+        color: black;
+    }
+}
