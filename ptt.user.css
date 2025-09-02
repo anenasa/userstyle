@@ -1,20 +1,20 @@
 /* ==UserStyle==
 @name           ptt.cc
 @namespace      github.com/openstyles/stylus
-@version        1.11.0
+@version        1.11.1
 @description    A new userstyle
 @author         Me
 ==/UserStyle== */
 
 @-moz-document domain("ptt.cc") {
     .r-ent .title {
-        font-size: 140%;
+        font-size: 160%;
         line-height: 100%;
         margin-left: 0;
         margin-right: 0;
     }
     #main-content {
-        font-size: 140%;
+        font-size: 160%;
     }
     #navigation-container{
         display:none;
