@@ -7,6 +7,9 @@
 ==/UserStyle== */
 
 @-moz-document domain("github.com") {
+    .react-blob-header-edit-and-raw-actions {
+        display:inherit !important;
+    }
     table.Box-sc-g0xbh4-0{
         width:auto;
     }
