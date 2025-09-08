@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           phoronix.com
 @namespace      github.com/openstyles/stylus
-@version        1.0.0
+@version        1.1.0
 @description    A new userstyle
 @author         Me
 ==/UserStyle== */
@@ -10,4 +10,6 @@
     .scrolltofixed {
         position: absolute !important;
     }
+    a:link {
+        color: #000;
 }
