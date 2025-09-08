@@ -1,21 +1,17 @@
 /* ==UserStyle==
 @name           lxer.com - 2022/4/23 下午7:39:24
 @namespace      github.com/openstyles/stylus
-@version        1.0.0
+@version        1.1.0
 @description    A new userstyle
 @author         Me
 ==/UserStyle== */
 
 @-moz-document domain("lxer.com") {
-    h2 span.storyheadline{
-        font-size:400%;
-        line-height:normal;
-    }
-    #sidebar{
+    #sidebar, #right_border{
         display:none;
     }
     #content{
-        width:90%!important;
+        width: auto!important;
     }
     
 }
