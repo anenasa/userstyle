@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           lxer.com - 2022/4/23 下午7:39:24
 @namespace      github.com/openstyles/stylus
-@version        1.2.0
+@version        1.3.0
 @description    A new userstyle
 @author         Me
 ==/UserStyle== */
@@ -16,5 +16,10 @@
     #container {
         min-width: auto!important;
     }
-    
+    a:visited {
+        color: #888;
+    }
+    a:link {
+        color: #000;
+    }
 }
