@@ -14,4 +14,7 @@
         max-height: none;
         display: block;
     }
+    .l-header, .fixbottom {
+        position: static;
+    }
 }
