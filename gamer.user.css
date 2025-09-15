@@ -7,10 +7,10 @@
 ==/UserStyle== */
 
 @-moz-document domain("m.gamer.com.tw") {
-a.open-app, div.marginTop{
-    display:none;
+a.open-app, div.marginTop, div.baha_quicktool {
+    display: none;
 }
 div.article-nav-bottom, header, div.mb-article-stickybar{
-    position:static;
+    position: static;
 }
 }
