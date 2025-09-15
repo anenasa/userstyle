@@ -13,4 +13,7 @@ a.open-app, div.marginTop, div.baha_quicktool {
 div.article-nav-bottom, header, div.mb-article-stickybar{
     position: static;
 }
+.viewport {
+    width: auto!important;
+}
 }
