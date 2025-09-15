@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           ptt.cc
 @namespace      github.com/openstyles/stylus
-@version        1.11.2
+@version        1.12.0
 @description    A new userstyle
 @author         Me
 ==/UserStyle== */
@@ -35,4 +35,6 @@
     body{
         padding-top:0px;
     }
+    a#logo:link {
+        color: #000!important;
 }
