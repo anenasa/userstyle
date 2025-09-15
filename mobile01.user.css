@@ -7,9 +7,6 @@
 ==/UserStyle== */
 
 @-moz-document domain("m.mobile01.com") {
-    div.c-articleItem__title, article.l-publishArea, p.msgContent{
-        font-size: 27px;
-    }
     div.c-articleItem__title{
         max-height: none;
         display: block;
