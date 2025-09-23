@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           m.mobile01.com
 @namespace      github.com/openstyles/stylus
-@version        1.1.0
+@version        1.2.0
 @description    A new userstyle
 @author         Me
 ==/UserStyle== */
@@ -13,5 +13,8 @@
     }
     .l-header, .fixbottom {
         position: static;
+    }
+    .l-menuContainer {
+        width: 50%;
     }
 }
