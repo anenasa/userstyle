@@ -1,0 +1,17 @@
+/* ==UserStyle==
+@name           phoronix.com
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    A new userstyle
+@author         Me
+==/UserStyle== */
+
+@-moz-document domain("phoronix.com") {
+    #logo {
+        width: 100%;
+        margin-left: 0px !important;
+    }
+    #search {
+        min-width: auto;
+    }
+}
