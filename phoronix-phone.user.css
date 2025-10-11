@@ -11,7 +11,7 @@
         width: 100%;
         margin-left: 0px !important;
     }
-    #search {
+    #search, #content, #footer, #footer-copyright, #header, #header .header-cell, #channel-tabbar, #notices, .breadcrumbs-wrapper {
         min-width: auto;
     }
 }
