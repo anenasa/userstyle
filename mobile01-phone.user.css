@@ -10,14 +10,8 @@
     div.c-articleItem__title, article.l-publishArea, p.msgContent{
         font-size: 27px;
     }
-    body{
-        zoom:3
-    }
     div.c-articleItem__title{
         max-height: none;
         display: block;
-    }
-    .l-header, .fixbottom {
-        position: static;
     }
 }
